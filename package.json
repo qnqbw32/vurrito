@@ -1,0 +1,15 @@
+{
+  "name": "vurrito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.min.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sourglowworms",
+  "license": "MIT"
+}
